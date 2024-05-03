@@ -5,8 +5,7 @@ I tell myself I enjoy it, but often find myself facing tasks that would drive a 
 These projects test my sanity, and I have no hope of completing them.
 
 Some of these projects include:
-- A programming language    [Oxygen](https://github.com/grey-cmd/Oxygen)
-- A game/creation engine    [Nimbus](https://github.com/grey-cmd/Nimbus)
-- My own rendering API      [Volt](https://github.com/grey-cmd/Volt)
-- My own operating system   [Cloud]
-
+- [Oxygen](https://github.com/grey-cmd/Oxygen): A programming language
+- [Nimbus](https://github.com/grey-cmd/Nimbus): A game/creation engine
+- [Volt](https://github.com/grey-cmd/Volt): My own rendering API/engine
+- [Cloud]: My own operating system
