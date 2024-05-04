@@ -6,6 +6,6 @@ These projects test my sanity, and I have no hope of completing them.
 
 Some of these projects include:
 - [Oxygen](https://github.com/grey-cmd/Oxygen): A programming language
-- [Nimbus](https://github.com/grey-cmd/Nimbus): A game/creation engine
+- [Nimbus](https://github.com/grey-cmd/Nimbus): A creation engine
 - [Volt](https://github.com/grey-cmd/Volt): My own rendering API/engine
 - [Cloud]: My own operating system
