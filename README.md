@@ -5,6 +5,6 @@ I tell myself I enjoy it, but often find myself facing tasks that would drive a 
 These projects test my sanity, and I have no hope of completing them.
 
 Some of these projects include:
-- [Volt](https://github.com/grey-cmd/Volt): A game engine
-- [Nimbus](https://github.com/grey-cmd/Nimbus): An IDE
-- [Cloud]: My own operating system
+- [Volt](): A game engine
+- [Nimbus](): An IDE
+- [Cloud](): My own operating system
